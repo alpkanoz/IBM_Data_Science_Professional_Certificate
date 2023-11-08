@@ -1,4 +1,4 @@
-# IBM_Data_Science_Professional_Certificate
+# IBM Data Science Professional Certificate
 ![Professional_Certificate_-_Data_Science](https://github.com/alpkanoz/IBM_Data_Science_Professional_Certificate/assets/78761783/5133d9de-d0aa-49e2-87f7-eef4993670df)
 
 ## About Course and Certificate
